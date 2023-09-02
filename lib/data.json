@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Ameen",
+      "email": "ameen@gmail.com",
+      "password": "ameen123",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "fullname": "hasna",
+      "email": "sdsfc@dfr.fhv",
+      "password": "123",
+      "gender": "Male"
+    },
+    {
+      "id": 13,
+      "fullname": "dsc",
+      "email": "addc@dfs.sfe",
+      "password": "fq123",
+      "gender": "Male"
+    }
+  ]
+}
